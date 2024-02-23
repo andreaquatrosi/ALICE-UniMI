@@ -2,7 +2,7 @@ Martedì: letteratura
 Mercoledì: lessico e civiltà
 Giovedì: lingua
 
-Esercitazioni di latino --> online venerdì pomeriggio dalle 15 alle 17
+Esercitazioni di latino $\rightarrow$ online venerdì pomeriggio dalle 15 alle 17
 Codice Teams: `oy0wx0n`
 
 21.02
@@ -21,12 +21,34 @@ Esercizi
 - Ob memoriam esprime un complemento di causa (ob + accusativo o accusativo semplice): a causa del ricordo di quell'et, la quale è chiamata aurea. 
 - Illius concorda con aetatis: è genitivo. 
 - Il pronome quae non concorda con memoriam, bensì con aetatis.
-- "hic mos Romanis est": questa usanza è romana --> il costrutto si chiama dativo di possesso (non sono io che ho la cosa, ma la cosa ha me). Mos è il costume, l'usanza (mos maiorum = la tradizione). 
-- Un termine che deriva da mos è morale: mos --> moris --> morale.
+- "hic mos Romanis est": questa usanza è romana $\rightarrow$ il costrutto si chiama dativo di possesso (non sono io che ho la cosa, ma la cosa ha me). Mos è il costume, l'usanza (mos maiorum = la tradizione). 
+- Un termine che deriva da mos è morale: mos $\rightarrow$ moris $\rightarrow$ morale.
 - Il soggetto di dicuntur è qui (pronome relativo, i quali): in quei giorni, i quali (i giorni) sono detti (dicuntur) Saturnali, gli schiavi siedono a tavola coi padroni.
  - Il lemma di diebus è dies.
 NB! il **lemma** è quella parola sul vocabolario per cui viene classificato il termine. 
 	Es: verbo pugnare, il lemma di qualsiasi forma di pugnare è pugno. 
 
 >Saturnalia, servi in conviviis cum dominis discumbunt. Post hunc Picus, deinde Faunus in Latio regnavit.
+
+22.02
+GRAMMATICA
+**Il Participio**
+Contrariamente all'italiano, in latino è importante: è una forma flessibile, un'unica forma che ha la doppia natura di verbo e di nome-aggettivo, quindi viene usato come elemento per costruire le frasi e renderle più concise. 
+GUARDA LA SCHEDA su Ariel
+Il participio ha tre tempi:
+- *Presente* $\rightarrow$  è attivo. 7
+	Si declina come un aggettivo di seconda classe, ossia alla terza declinazione. 
+- *Passato* (o *perfetto*) $\rightarrow$ è passivo. 
+	Si declina come un aggettivo della prima classe, quindi seguendo la prima e la seconda declinazione. 
+	Bisogna prendere il supino (?).
+- *Futuro* $\rightarrow$ 
+In italiano non abbiamo tutti questi tempi al participio.
+
+In latino, i verbi si dividono in quattro coniugazioni: 
+1. -*are* $\rightarrow$ amare
+2. -*ere*, con "e" lunga (ha l'accento) $\rightarrow$ monére
+3. -*ere*, con la "e" breve (non ha l'accento) $\rightarrow$ dìcere
+4. -*ire* $\rightarrow$ audire
+Tutte le quattro coniugazioni hanno il participio. 
+
 
