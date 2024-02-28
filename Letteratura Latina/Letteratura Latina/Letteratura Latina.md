@@ -51,4 +51,24 @@ In latino, i verbi si dividono in quattro coniugazioni:
 4. -*ire* $\rightarrow$ audire
 Tutte le quattro coniugazioni hanno il participio. 
 
+27.02
+LETTERATURA
+Abbiamo un certificato di nascita della letteratura latina: è di Cicerone (I secolo a.C., oratore e politico dell'ultima fase della repubblica) e l'opera è "Brutus" (un amico di Cicerone, uno degli assassini di Cesare).
+Il "Brutus "è scritto pochi anni prima della morte di Cesare e di Cicerone. Classificata come opera retorica (l'arte del discorso): svolge argomenti teorici all'interno di una cornice dialogica tra Brutus e altri amici. 
+L'opera parla di quali letture deve fare l'apprendista oratore (colui che mette in pratica la retorica): in questa sezione Cicerone organizza il primo manuale della letteratura latina $\rightarrow$ elenca gli autori latini, li confronta con quelli greci ed elenca pregi e difetti. Il culmine dell'elenco di Cicerone si conclude con Cicerone stesso. 
+Omero: primo grande autore greco ed occidentale. 
 
+"Brutus", Cicerone, 72:
+Atqui hic Livius [qui] primus fabulam C. Claudio Caeci filio et M. Tuditano consulibus docuit anno ipso ante quam natus est Ennius, post Romam conditam autem quarto decumo et quingentesimo, ut hic ait, quem nos sequimur. est enim inter scriptores de numero annorum controversia. Accius autem a Q. Maxumo quintum consule captum Tarento scripsit Livium annis xxx post quam eum fabulam docuisse et Atticus scribit et nos in antiquis commentariis invenimus;
+
+Eppure questo Livio fu il primo a mettere in scena (insegnare) un opera teatrale, sotto il consolato di Gaio Claudio figlio del Cieco e di Marco Tuditano (240 d.C.), proprio l'anno prima che nascesse Ennio (nato nel 239 d.C.), e cinquecentoquattordici anni dopo la fondazione (conditam  $\rightarrow$ condere: formare) di Roma, come dice costui (Attico, altro amico di Cicerone. Gli scrive le epistole), che noi seguiamo. Infatti, sulle date vi ? disaccordo tra gli autori. Accio, poi, scrisse che Livio venne preso prigioniero a Taranto durante il quinto consolato di Quinto Massimo, cio? trent'anni dopo la data in cui, secondo quanto scrive Attico e io ho trovato in antiche memorie, egli mise in scena il suo lavoro teatrale;
+
+Per indicare un periodo, si usa ablativo (in questo caso, consulibus) e si sottintende il participio presente del verbo "sum" (essendo consoli...), poi anche i nomi degli imperatori sono in ablativo  $\rightarrow$ 240 d.C.
+I consoli che danno il nome ad un anno si definiscono "eponimi".
+
+NB! Chiede all'esame: "Ab urbe condita", età augustea, di Tito Livio. Testo storico. "Da Roma che è stata fondata".
+
+Attico dice che il 240 d.C. è l'anno della nascita della letteratura latina perché Livio ha messo in scena l'opera teatrale
+Non è una data condivisa da tutti, infatti c'è una seconda opzione.
+
+Livio Andronico: intellettuale e maestro di retorica, nato a Taranto all'inizio del III secolo a.C..
