@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "b1aecedb1a6473d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d54142388c947e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1ea19cc91239c01",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c67994c8df2d9bff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f239e261c424bbce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07db95be7bec7b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08640c403b19a7ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e56bddf0c7aa5dca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3c5b409d7e320270",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c2649a15f5aa64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6050752b44f96271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e88139786e857738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72656fe0dac5cf93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfb84f1d20f0dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1ea19cc91239c01",
+  "lastOpenFiles": [
+    "Letteratura Latina.md",
+    "Letteratura Latina_21-22.pdf",
+    "Alice-UniMI",
+    "Welcome.md"
+  ]
+}
